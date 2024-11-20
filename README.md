@@ -62,7 +62,8 @@ This project showcases an end-to-end data analysis workflow, including data clea
    - A pie chart for product category distribution.
 
 ### Screenshot:
-![Dashboard Screenshot](./Reports/Dashboard.png)
+![Dashboard Screenshot](https://github.com/Ishika-0404/Sales-and-Returns-Analysis-PowerBI/blob/main/adventure_work.png)
+![Dashboard Screenshot](https://github.com/Ishika-0404/Sales-and-Returns-Analysis-PowerBI/blob/main/adventure_work_2.png)
 
 ---
 
