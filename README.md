@@ -62,8 +62,8 @@ This project showcases an end-to-end data analysis workflow, including data clea
    - A pie chart for product category distribution.
 
 ### Screenshot:
-![Dashboard Screenshot](https://github.com/Ishika-0404/Sales-and-Returns-Analysis-PowerBI/blob/main/adventure_work.png)
-![Dashboard Screenshot](https://github.com/Ishika-0404/Sales-and-Returns-Analysis-PowerBI/blob/main/adventure_work_2.png)
+![Dashboard Screenshot](adventure_work.png)
+![Dashboard Screenshot](adventure_work_2.png)
 
 ---
 
@@ -71,7 +71,7 @@ This project showcases an end-to-end data analysis workflow, including data clea
 
 ### Example DAX Measures:
 1. **Total Sales**:
-   ```DAX
+```DAX
    Total Sales = SUMX(
        Sales,
        Sales[OrderQuantity] * RELATED(Products[ProductPrice])
